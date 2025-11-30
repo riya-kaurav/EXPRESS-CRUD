@@ -16,7 +16,7 @@ This project demonstrates how to build a robust backend service with:
 
 ---
 
-## 🔨 Tech Stack
+##  Tech Stack
 - **Node.js** – JavaScript runtime for server-side development  
 - **Express.js** – Web framework for building RESTful APIs  
 - **PostgreSQL** – Relational database system  
@@ -25,7 +25,7 @@ This project demonstrates how to build a robust backend service with:
 
 ---
 
-## 🏗️ Architecture Overview
+##  Architecture Overview
 - **Routes Layer (`src/routes/`)**  
   Defines API endpoints for CRUD operations.
 
@@ -44,14 +44,14 @@ This project demonstrates how to build a robust backend service with:
 ---
 
 
-### ⚙️ Key Features
+###  Key Features
 - RESTful API design following industry best practices.
 - Separation of concerns with routes, controllers, and models.
 - Environment-based configuration using `.env`.
 - Error handling and status codes for robust API responses.
   
 
-### 📡 Example Use Case
+###  Example Use Case
 This project can serve as:
 - A starter template for building backend services.
 - A learning resource for understanding CRUD operations in Express.
